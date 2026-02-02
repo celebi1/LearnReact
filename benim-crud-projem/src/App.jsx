@@ -33,6 +33,7 @@ import axios from 'axios';
 //     </div>
 //   );
 // }
+//BURADA USTTE GONDERI EKLEME ISLEMIN YAPTIK ALTTA ISE GONDERI CEKME ISLEMINI YAPTIK
 
 // export default App;
 function App() {
